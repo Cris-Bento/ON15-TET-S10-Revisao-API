@@ -23,6 +23,34 @@
         "telefone": "4155-4452",
         "pagamento": ["Dinheiro", "cartao", "pix"],
         "site" : "rosevariedades.com.br"
+    },
+
+    {
+        "id": 3,
+        "likes": 2,
+        "dislikes": 1,
+        "nome": "Maison Raymond",
+        "endereço": "Rua Leopoldo Vieira",
+        "numero": 123,
+        "bairro": "Vila Progresso",
+        "cidade": "Sorocaba",
+        "telefone": "3233-7656",
+        "pagamento": ["Dinheiro", "cartao", "pix", "VR"],
+        "site" : "maisonraymond.com.br"
+    }, 
+
+    { 
+        "id": 4,
+        "likes": 5,
+        "dislikes": 2,
+        "nome": "Ray's Burger",
+        "endereço": "Avenida Pereira da Silva",
+        "numero": 854,
+        "bairro": "Santa Rosália",
+        "cidade": "Sorocaba",
+        "telefone": "3233-1843",
+        "pagamento": ["Dinheiro", "cartao", "pix", "VR"],
+        "site" : "raysburgersorocaba.com.br"
     }
     
 ]
